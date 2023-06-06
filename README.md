@@ -13,7 +13,7 @@
 
 <param ve-entity eid="Q70702" title="alkaloid">
 <param ve-entity eid="Q190489" title="evergreen">
-<param ve-image eid="https://commons.wikimedia.org/w/index.php?search=cinchona&title=Special:MediaSearch&go=Go&type=image">
+<param ve-image url="https://commons.wikimedia.org/w/index.php?search=cinchona&title=Special:MediaSearch&go=Go&type=image">
        
 ## History 
 
