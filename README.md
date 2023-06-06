@@ -13,7 +13,7 @@
 
 <param ve-entity eid="Q70702" title="alkaloid">
 <param ve-entity eid="Q190489" title="evergreen">
-<param ve-image url:"https://plants.jstor.org/stable/10.5555/al.ap.visual.ma-carpo-100314?searchUri=filter%3Dname%26so%3Dps_group_by_genus_species%2Basc%26Query%3Dcinchona"> label=
+<param ve-image url:"[File:Cinchona lancifolia (Nees).jpg|Cinchona_lancifolia_(Nees)]]"> label=
        
 ## History 
 
