@@ -28,10 +28,10 @@ The plant was first given its Western scientific name by French botanist Auguste
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.k000588599">
 <param ve-image url="http://n2t.net/ark:/65665/m3471667a5-eafc-4295-8bbd-7caccb1b1f8c">
 
-## Uses of yerba mate
-
 <param ve-video
        id="f87wvXMa-Rk"
        title="How to prepare mate">
        
 <param ve-iframe src="https://archive.org/details/plantesusuellesd00sain/page/n13/mode/2up?view=theater&output=embed">
+
+
