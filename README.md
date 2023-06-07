@@ -31,4 +31,4 @@ The plant was first given its Western scientific name by French botanist Auguste
 
 ### Uses of yerba mate
 
-<param ve-video id="f87wvXMa-Rk" title="How to prepare mate">
+<param ve-videoid="f87wvXMa-Rk" title="How to prepare mate">
