@@ -18,7 +18,7 @@
 label="Gauchos drinking mate" description="Photograph. Attribution. Insitution" license="public domain">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/57/Ilex_paraguariensis_-_Yerba_mate_-_desc-leaves.jpg" label="Plant" description="Photograph" license="Public domain">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/66/Cinchona.pubescens01.jpg" region="301,85,242,225">
-param ve-image label="Botanical llustration. Koehler's Medicinal-Plants, 1887" description="Koehler's Medicinal-Plants, 1887" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/2/28/Ilex_paraguariensis_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-074.jpg" region="69,1,342,309">
+
 
        
 ### History 
