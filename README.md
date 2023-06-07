@@ -27,7 +27,6 @@ The plant was first given its Western scientific name by French botanist Auguste
 
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.k000588599">
 <param ve-image url="http://n2t.net/ark:/65665/m3471667a5-eafc-4295-8bbd-7caccb1b1f8c">
-<param ve-plant-specimen jpid="10.5555/al.ap.specimen.k000588599">
 
 ## Uses of yerba mate
 
