@@ -17,7 +17,7 @@
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/c2/Gauchos_mateando.jpg" 
 label="Gauchos drinking mate" description="Photograph. Attribution. Insitution" license="public domain">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/57/Ilex_paraguariensis_-_Yerba_mate_-_desc-leaves.jpg" label="Plant" description="Photograph" license="Public domain">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/66/Cinchona.pubescens01.jpg">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/66/Cinchona.pubescens01.jpg" region="301,85,242,225">
        
 ### History 
 
