@@ -51,3 +51,7 @@ height="750">
 ## Maps
 
 <param ve-map center="Q733" zoom="6"
+       
+       
+<param ve-map center="-23.156154824566123, -57.89854124893103" zoom="6">
+
