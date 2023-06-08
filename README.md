@@ -50,4 +50,4 @@ height="750">
 
 ## Maps
 
-<param ve-map center="Q733" zoom=""
+<param ve-map center="Q733" zoom="6"
