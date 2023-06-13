@@ -56,4 +56,4 @@ The plant was first given its Western scientific name by French botanist Auguste
        
 <param ve-map center="-23.156154824566123, -57.89854124893103" zoom="6">
 
-param ve-image="https://github.com/Hamadryade8/Cinchona2/blob/dc954061b22724d6ad9b43af0df0b8fdb2c84f27/Cle%CC%81mence%20assise.jpg">
+param ve-image="https://github.com/Hamadryade8/Cinchona2/blob/dc954061b22724d6ad9b43af0df0b8fdb2c84f27/Cle%CC%81mence%20assise.jpg?raw=true">
