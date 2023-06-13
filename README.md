@@ -56,3 +56,4 @@ The plant was first given its Western scientific name by French botanist Auguste
        
 <param ve-map center="-23.156154824566123, -57.89854124893103" zoom="6">
 
+param ve-image 
